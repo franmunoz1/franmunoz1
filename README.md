@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hola, soy Francisco Agustin Munoz, estudiante de la carrera<br>de Ingenieria Informatica en la Universidad Blas Pascal.
+Hola, soy Francisco Agustin Munoz, estudiante de la carrera de Ingenieria Informatica en la Universidad Blas Pascal.
+Actualmente tambien me encuentro estudiando la carrera de FullStack developer en Coderhouse.
+
 
 
 ## 🌐 Socials:
