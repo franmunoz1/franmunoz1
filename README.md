@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻 About Me:
 Hola, mi nombre es Francisco Agustin Muñoz, tengo 22 años.<br>Actualmente estoy estudiando la carrera de Ingenieria Informatica en la Universidad Blas Pascal.<br>Tambien estoy estudiando la carrera de Fullstack dev en Corderhouse.
 
 
